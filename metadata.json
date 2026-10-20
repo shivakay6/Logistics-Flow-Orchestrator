@@ -1,0 +1,8 @@
+{
+  "name": "Blue Dart",
+  "description": "Interactive prototype demonstrating conversational discovery and commerce on WhatsApp for Missed Call and Connected Call customer journeys.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

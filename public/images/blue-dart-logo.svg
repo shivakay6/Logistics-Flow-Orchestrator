@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500" width="500" height="500">
+  <!-- Clean white background matching official DP -->
+  <rect width="500" height="500" fill="#FFFFFF"/>
+  
+  <g transform="translate(18, 0)">
+    <!-- Slanted / dynamic italic group -->
+    <g transform="skewX(-5) translate(22, 0)">
+      <!-- BLUE in Blue Dart Royal Blue -->
+      <text x="12" y="278" font-family="'Arial Black', Impact, -apple-system, sans-serif" font-weight="900" font-size="76" fill="#0063AA" letter-spacing="-1">BLUE</text>
+      
+      <!-- DART in Blue Dart Vivid Green -->
+      <text x="198" y="278" font-family="'Arial Black', Impact, -apple-system, sans-serif" font-weight="900" font-size="76" fill="#00A74F" letter-spacing="-0.5">DART</text>
+      
+      <!-- Chevron in Green -->
+      <polygon points="384,216 415,250 384,284 400,284 431,250 400,216" fill="#00A74F"/>
+      
+      <!-- Arrowhead in Royal Blue -->
+      <polygon points="408,216 439,250 408,284 476,250" fill="#0063AA"/>
+    </g>
+  </g>
+</svg>
